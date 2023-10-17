@@ -3,6 +3,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.left-bar {
+    flex: 1;
+    padding: 20px;
+    background-color: #f44174;
+    color: #ffffff;
+}
+
 .main {
     flex: 5;
     padding: 20px;
