@@ -19,6 +19,10 @@
     padding: 20px;
 }
 
+.main li {
+    margin-bottom: 20px;
+}
+
 .right-bar {
     flex: 1;
     padding: 20px;
