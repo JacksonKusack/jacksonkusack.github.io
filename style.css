@@ -24,9 +24,9 @@
 }
 
 .right-bar {
-    flex: 1;
+    flex: 0.5;
     padding: 20px;
-    background-color: #fa7e61;
+    background-color: #feecf1;
 }
 
 .right-bar h3 {
